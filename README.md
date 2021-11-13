@@ -1,1 +1,1 @@
-# Lista de Exercicio (Resolvidos) - Python Brasil
+# Lista de Exercicio (Resolvidos :thumbsup:) - Python Brasil
